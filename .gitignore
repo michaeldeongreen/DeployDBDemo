@@ -1,0 +1,16 @@
+/.vs/DeployDBDemo/v14/*.suo
+/DeployDBDemo/DeployDBDemo.dbmdl
+/DeployDBDemo/DeployDBDemo.jfm
+/DeployDBDemo/bin/Debug/DeployDBDemo.dacpac
+/DeployDBDemo/bin/Debug/DeployDBDemo.dll
+/DeployDBDemo/bin/Debug/DeployDBDemo.pdb
+/DeployDBDemo/obj/Debug/DeployDBDemo.dll
+/DeployDBDemo/obj/Debug/DeployDBDemo.pdb
+/DeployDBDemo/obj/Debug/DeployDBDemo.sqlproj.FileListAbsolute.txt
+/DeployDBDemo/obj/Debug/Model.xml
+/DeployDBDemo/obj/Debug
+/DeployDBDemo/bin/Debug/DeployDBDemo.publish.sql
+/DeployDBDemo/bin/Debug/DeploymentReport.txt
+/DeployDBDemo/bin/Debug/DeployDBDemo_1.publish.sql
+/DeployDBDemo/bin/Debug/DeploymentReport_1.txt
+/DeployDBDemo/bin/Debug/DeployDBDemo.sql
